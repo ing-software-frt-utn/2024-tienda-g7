@@ -6,7 +6,7 @@ Integrantes del Grupo:
 -Saccone Valentina. Legajo: 50333
 -Sánchez Esteban Nicolás. Legajo: 49894
 
-Tecnologías utilizadas: Swift, SwiftUI, Vapor, Fluent, Python, Behave.
+Tecnologías utilizadas: Swift, SwiftUI, Vapor, Fluent, Python, Gherkin.
 
 La funcionalidad del proyecto es la detallada en el caso de uso "Realizar Venta". Esto incluye agregar productos a una venta y realizar la misma.
 En caso de elegir pago con tarjeta, se realiza la conexión con el sistema externo de autorización de pagos. Al realizar la venta se decrementa el stock de los productos correspondientes.
